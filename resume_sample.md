@@ -1,18 +1,18 @@
 > 대학생 이력서 샘플입니다. 아직 일 한 경력이 없기 때문에 가장 신경써서 만들어야 하는것이 Skill 부분입니다.
 > 깃헙 프로필 페이지(깃헙 어카운트와 같은 이름으로 만든 리포지토리의 README.md파일)에 올려 놓을 수 있도록 해 보세요.
 
-# 홍길동
+# 이재혁
 > 전화번호는 중요한 개인정보이므로 가급적 노출시키지 않는것이 좋습니다.
 > 깃헙 주소와 더불어 [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)도 넣어 주시면 금상첨화겠죠? 아래 예제도 넣었습니다.
 
-- 이메일: honggildong@gmail.net  
-- 블로그: https://gildong.blgger.com  
-- 깃헙: https://github.com/donga-it-club  
+- 이메일: pre70u@gmail.net  
+- 블로그: https://leejeahyuk.github.io/
+- 깃헙: https://github.com/LeeJeaHyuk
 
 ![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
 
 ## Summary
-> 목표로 하는 직군이나 포지션, 관심있는 분야등을 취업 희망 시기와 함께 간략하게 적으세요.
+> 데이터 사이언스를 공부하고 있는 이재혁입니다.
 
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
@@ -32,19 +32,19 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
 
-- AWS EC2에서 Ubuntu, anaconda 환경 구축 경험
-- AWS RDS 생성 및 EC2 python과 연동 경험
-- Amazon S3 이용한 데이터 업로드 경험
+- # aWS EC2에서 Ubuntu, anaconda 환경 구축 경험
+- # AWS RDS 생성 및 EC2 python과 연동 경험
+- # Amazon S3 이용한 데이터 업로드 경험
 - Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
-- Crontab 활용한 동적 데이터 수집 경험
+- # Crontab 활용한 동적 데이터 수집 경험
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
 - Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
-- 서버리스 데이터 레이크 아키텍처 설계
-- Amazon S3를 스토리지를 사용하여 데이터를 Data Lake로 수집하는 데이터 처리 파이프라인 구축
-- 실시간 스트리밍 데이터에 Amazon Kinesis 사용
-- AWS Glue를 사용하여 데이터세트 자동 분류
-- AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
-- Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
+- # 서버리스 데이터 레이크 아키텍처 설계
+- # Amazon S3를 스토리지를 사용하여 데이터를 Data Lake로 수집하는 데이터 처리 파이프라인 구축
+- # 실시간 스트리밍 데이터에 Amazon Kinesis 사용
+- # AWS Glue를 사용하여 데이터세트 자동 분류
+- # AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
+- # Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
 
 ### 앞으로 공부할 것들
 - 데이터 기반 의사결정 위한 정량 수치 정의
