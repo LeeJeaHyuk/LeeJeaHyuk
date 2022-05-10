@@ -20,11 +20,11 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: ynkim0's metrics build
-        uses: ynkim0/metrics@latest
+      - name: LeejeaHyuk's metrics build
+        uses: LeeJeaHyuk/metrics@latest
         with:
-          token: ${{ secrets.YENAS_METRICS_TOKEN }}
-          filename: github-metrics-ynkim0.svg
+          token: ${{ secrets.JAEHYUKS_METRICS_TOKEN }}
+          filename: github-metrics-LeejeaHyuk.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
