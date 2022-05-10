@@ -1,5 +1,5 @@
 # 이재혁
- <!-- [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md) -->
+ ![github metric](github-metrics-LeejeaHyuk.svg)
 
 - 이메일: pre70u@gmail.net  
 - 블로그: https://leejeahyuk.github.io/
