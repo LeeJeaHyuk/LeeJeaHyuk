@@ -1,15 +1,12 @@
 # 이재혁
 
- <!-- [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md) -->
+[github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 
 - 이메일: pre70u@gmail.net  
 - 블로그: https://leejeahyuk.github.io/
 - 깃헙: https://github.com/LeeJeaHyuk
-<<<<<<< HEAD
-=======
 
->>>>>>> 036fec9ed0c5f9e7201031e5a79057cb7fca4eee
-<!-- ![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg) -->
+![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
 
 ## Summary
 > 데이터 사이언스를 공부하고 있는 이재혁입니다.
