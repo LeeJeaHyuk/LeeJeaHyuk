@@ -6,8 +6,7 @@
 - 블로그: https://leejeahyuk.github.io/
 - 깃헙: https://github.com/LeeJeaHyuk
 
-<!-- 
-![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg) -->
+<!-- ![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg) -->
 
 ## Summary
 > 데이터 사이언스를 공부하고 있는 이재혁입니다.
