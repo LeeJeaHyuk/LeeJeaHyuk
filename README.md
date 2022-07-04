@@ -1,9 +1,14 @@
 # 이재혁
+
  <!-- [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md) -->
 
 - 이메일: pre70u@gmail.net  
 - 블로그: https://leejeahyuk.github.io/
 - 깃헙: https://github.com/LeeJeaHyuk
+<<<<<<< HEAD
+=======
+
+>>>>>>> 036fec9ed0c5f9e7201031e5a79057cb7fca4eee
 <!-- ![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg) -->
 
 ## Summary
@@ -14,26 +19,21 @@
 **Tech** :  
 한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=Selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
 
 
 - Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
-- Beautiful Soup, Selenium 활용한 데이터 크롤링
-- Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
+- Matplotlib 사용한 데이터 시각화
 
 ### 앞으로 공부할 것들
 - 데이터 기반 의사결정 위한 정량 수치 정의
 - 서비스 KPI의 측정과 평가를 위한 로그 설계를 포함한 각종 지표 설계, 생성, 모니터링, 대시보드 구축
 - 전사 서비스 및 다양한 이슈에 대한 데이터 분석 및 인사이트 도출
 -  Python, SQL, Spark 등을 사용한 데이터 전처리, 분석 경험
--  BI 툴 
+-  
 
 
 ## Experience
@@ -54,5 +54,6 @@
   - [혼자 공부하는 머신러닝 + 딥러닝]
 
 ## Projects
-- 연세대 원주캠퍼스 데이터 분석 스터디(2022.06.28 ~ 진행중)
+- 연세대 원주캠퍼스 데이터 분석 스터디 kaggle competitions(2022.06.28 ~ 진행중)
+
  
