@@ -23,8 +23,7 @@
 
 
 - Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
-- Beautiful Soup, Selenium 활용한 데이터 크롤링
-- Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
+- Matplotlib 사용한 데이터 시각화
 
 ### 앞으로 공부할 것들
 - 데이터 기반 의사결정 위한 정량 수치 정의
@@ -53,4 +52,5 @@
 
 ## Projects
 - 연세대 원주캠퍼스 데이터 분석 스터디 kaggle competitions(2022.06.28 ~ 진행중)
+
  
