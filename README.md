@@ -4,9 +4,9 @@
 - 블로그: https://leejeahyuk.github.io/
 - 깃헙: https://github.com/LeeJeaHyuk
 
-![Metrics](/github-metrics-LeejeaHyuk.svg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeejeaHyuk&show_icons=true&theme=dark)
+
+![Metrics](/github-metrics-LeejeaHyuk.svg)
 
 ## Summary
 > 데이터 사이언스를 공부하고 있는 이재혁입니다.
