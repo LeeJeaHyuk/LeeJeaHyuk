@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
-
+<img src="https://img.shields.io/badge/-Java-yellowgreen"/></a> 
+<img src="https://img.shields.io/badge/-SQL-blue"/></a> 
 
 - Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
 - Matplotlib 사용한 데이터 시각화
