@@ -8,9 +8,8 @@
 
 ![Metrics](/github-metrics-LeejeaHyuk.svg)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeejeaHyuk&layout=compact&theme=tokyonight) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/??username=LeejeaHyuk&layout=Gradient)]
-<!-- (https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeejeaHyuk&layout=compact&theme=tokyonight)
+
 ## Summary
 > 데이터 사이언스를 공부하고 있는 이재혁입니다.
 
