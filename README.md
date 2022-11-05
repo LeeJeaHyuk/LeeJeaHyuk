@@ -50,10 +50,10 @@
 **Study**
 - 연세대 원주캠퍼스 머신러닝 스터디(2021.03.29 ~ 2021.12.29)
   - [혼자 공부하는 머신러닝 + 딥러닝]
-  - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow] [깃허브](https://github.com/yonseimath/data-science-2021)
+  - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://github.com/yonseimath/data-science-2021)
 
 - 연세대 원주캠퍼스 데이터 분석 스터디(2022.03.29 ~ 2022.06.26)
-  - [혼자 공부하는 머신러닝 + 딥러닝] [깃허브](https://github.com/yonseimath/data-science-2022-biginner)
+  - [혼자 공부하는 머신러닝 + 딥러닝](https://github.com/yonseimath/data-science-2022-biginner)
 
 ## Projects
 - 연세대 원주캠퍼스 데이터 분석 스터디 kaggle competitions(2022.06.28 ~ 진행중)
