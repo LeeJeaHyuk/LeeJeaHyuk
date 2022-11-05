@@ -25,8 +25,7 @@
 <img src="https://img.shields.io/badge/-Java-yellowgreen"/></a> 
 <img src="https://img.shields.io/badge/-SQL-blue"/></a> 
 
-- Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
-- Matplotlib 사용한 데이터 시각화
+- [Python]() 
 
 ### 앞으로 공부할 것들
 - AWS RDS 생성 및 EC2 python과 연동 경험
@@ -58,5 +57,6 @@
 
 ## Projects
 - 연세대 원주캠퍼스 데이터 분석 스터디 kaggle competitions(2022.06.28 ~ 진행중)
+- [Multicampus 10월 시각화 프로젝트]()
 
  
