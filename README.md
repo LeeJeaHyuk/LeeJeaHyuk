@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/-Java-yellowgreen"/></a> 
 <img src="https://img.shields.io/badge/-SQL-blue"/></a> 
 
-- [Python]() 
+- [Python](https://github.com/LeeJeaHyuk/python) 
 
 ### 앞으로 공부할 것들
 - AWS RDS 생성 및 EC2 python과 연동 경험
