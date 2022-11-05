@@ -2,7 +2,7 @@
 
 - 이메일: pre70u@gmail.net  
 - 블로그: https://leejeahyuk.github.io/
-- 깃헙: https://github.com/LeeJeaHyuk
+- 브허브: https://github.com/LeeJeaHyuk
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeejeaHyuk&show_icons=true&theme=dark)
 
