@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/-SQL-blue"/></a> 
 
 - [Python](https://github.com/LeeJeaHyuk/python) 
-  - [numpy](https://github.com/LeeJeaHyuk/python/blob/master/Numpy/README_Numpy.md), [pandas](https://github.com/LeeJeaHyuk/python/blob/master/Pandas/README_Pandas.md), [open_cv](), [scikit-learn](https://github.com/LeeJeaHyuk/python/blob/master/scikit-learn/README_scikit-learn.md), [tensorflow], [keras]()
+  - [numpy](https://github.com/LeeJeaHyuk/python/blob/master/Numpy/README_Numpy.md), [pandas](https://github.com/LeeJeaHyuk/python/blob/master/Pandas/README_Pandas.md), [open_cv](), [scikit-learn](https://github.com/LeeJeaHyuk/python/blob/master/scikit-learn/README_scikit-learn.md), [tensorflow](), [keras]()
 
 ### 앞으로 공부할 것들
 - AWS RDS 생성 및 EC2 python과 연동 경험
