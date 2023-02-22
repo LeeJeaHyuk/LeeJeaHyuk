@@ -1,6 +1,6 @@
 # 이재혁
 
-- 이메일: pre70u@gmail.net  
+- 이메일: pre70u@gmail.com
 - 블로그: https://leejeahyuk.github.io/
 - 깃허브: https://github.com/LeeJeaHyuk
 
