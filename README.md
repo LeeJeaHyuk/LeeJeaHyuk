@@ -58,6 +58,8 @@
 
 ## Projects
 - 연세대 원주캠퍼스 데이터 분석 스터디 kaggle competitions(2022.06.28 ~ 진행중)
-- [Multicampus 10월 시각화 프로젝트 (2022.10.21 ~ 2022.11.04)](https://github.com/LeeJeaHyuk/Multicampus-2210-ProjectGroup4)
-
+- Multicampus project
+  - [멀티캠퍼스 1차 프로젝트 (시각화) (2022.10.21 ~ 2022.11.04)](https://github.com/LeeJeaHyuk/Multicampus-2210-ProjectGroup4)
+  - [멀티캠퍼스 2차 프로젝트 (데이터 분석 : kaggle-spacetitanic)](https://github.com/LeeJeaHyuk/MulcamProject02)
+  - [멀티캠퍼스 3차 프로젝트 : 자동차 파손 수리비 견적 플랫폼](https://github.com/CuriousLambda/DS_DE_Final)
  
