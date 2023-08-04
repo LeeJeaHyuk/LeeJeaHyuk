@@ -28,19 +28,22 @@
 - [Python](https://github.com/LeeJeaHyuk/python) 
   - [numpy](https://github.com/LeeJeaHyuk/python/blob/master/Numpy/README_Numpy.md), [pandas](https://github.com/LeeJeaHyuk/python/blob/master/Pandas/README_Pandas.md), [open_cv](), [scikit-learn](https://github.com/LeeJeaHyuk/python/blob/master/scikit-learn/README_scikit-learn.md), [tensorflow](), [keras]()
 
-### 앞으로 공부할 것들
 - AWS RDS 생성 및 EC2 python과 연동 경험
-- Amazon S3 이용한 데이터 업로드 경험
-- Amazon S3를 스토리지를 사용하여 데이터를 Data Lake로 수집하는 데이터 처리 파이프라인 구축
-- AWS Glue를 사용하여 데이터세트 자동 분류
-- AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
-- Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
+- EC2 서버에서 Jupyter Notebook 구동하기
+- Analytics on AWS
+  - Ingest and Store
+  - Catalog Data
+  - Transform Data with AWS Glue (interactive sessions)
+  - Analyze with Athena
+  - Visualize in Quicksight
+  - Serve with Lambda
+
+### 앞으로 공부할 것들
+
 -  Python, SQL, Spark 등을 사용한 데이터 전처리, 분석 경험
 -  
 
-
 ## Experience
-> 실제 인턴 경험이 있는 경우에만 작성해 주세요.
 
 
 ## Education  
