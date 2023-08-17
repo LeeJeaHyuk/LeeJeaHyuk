@@ -25,9 +25,8 @@
 <img src="https://img.shields.io/badge/-Java-yellowgreen"/></a> 
 <img src="https://img.shields.io/badge/-SQL-blue"/></a> 
 
-- [Python](https://github.com/LeeJeaHyuk/python) 
-  - [numpy](https://github.com/LeeJeaHyuk/python/blob/master/Numpy/README_Numpy.md), [pandas](https://github.com/LeeJeaHyuk/python/blob/master/Pandas/README_Pandas.md), [open_cv](), [scikit-learn](https://github.com/LeeJeaHyuk/python/blob/master/scikit-learn/README_scikit-learn.md), [tensorflow](), [keras]()
 
+- [aws Blog](https://leejeahyuk.github.io/categories/#aws)
 - AWS RDS 생성 및 EC2 python과 연동 경험
 - EC2 서버에서 Jupyter Notebook 구동하기
 - Analytics on AWS
@@ -37,6 +36,11 @@
   - Analyze with Athena
   - Visualize in Quicksight
   - Serve with Lambda
+
+
+- [Pytorch code](https://github.com/LeeJeaHyuk/dacon/blob/master/torch_tutorial/README.md)
+- [Pytorch Blog](https://leejeahyuk.github.io/categories/#pytorch)
+
 
 ### 앞으로 공부할 것들
 
@@ -49,7 +53,7 @@
 ## Education  
 
 **연세대 원주캠퍼스 수학과**(2016 ~ 2022)  
-> 수강했던 과목중에 목표로 하는 역할과 관련 있는 것들만 적으세요
+
 
 **Study**
 - 연세대 원주캠퍼스 머신러닝 스터디(2021.03.29 ~ 2021.12.29)
